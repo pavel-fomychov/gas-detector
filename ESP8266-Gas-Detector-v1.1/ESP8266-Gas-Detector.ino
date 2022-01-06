@@ -22,15 +22,10 @@
 #include <Adafruit_SGP30.h>
 #include <OneButton.h>
 
-//#define WIFI_SSID "********"      // Имя Wi-Fi сети
-//#define WIFI_PASSWORD "*******"   // Пароль Wi-Fi сети
-//#define BOT_TOKEN ""              // Токен Telegram Bot
-//#define CHAT_ID ""                // CHAT_ID в Telegram
-
-#define WIFI_SSID "TL-WR841N"       // Имя Wi-Fi сети
-#define WIFI_PASSWORD "papa1963"    // Пароль Wi-Fi сети
-#define BOT_TOKEN "1799141526:AAFvfZh8nmdBO7ugtBS7m61kCEuzPSeUsq8"   // Токен Telegram Bot
-#define CHAT_ID "246188125"  // CHAT_ID в Telegram
+#define WIFI_SSID "********"      // Имя Wi-Fi сети
+#define WIFI_PASSWORD "*******"   // Пароль Wi-Fi сети
+#define BOT_TOKEN ""              // Токен Telegram Bot
+#define CHAT_ID ""                // CHAT_ID в Telegram
 
 #define pinBTN_1 3         // (Rx) Левая кнопка
 #define pinBTN_2 0         // (D3) Центральная кнопка
